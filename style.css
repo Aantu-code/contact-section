@@ -58,12 +58,13 @@ body {
   margin: auto;
 }
 .contact-from .input-control {
-  height: 50px;
-  width: 100%;
-  border: 1px solid #444444;
-  border-radius: 5px;
-  background-color: transparent;
-  transition: all 0.3s ease;
+	height: 50px;
+	width: 100%;
+	border: 1px solid #444444;
+	border-radius: 5px;
+	background-color: transparent;
+	transition: all 0.3s ease;
+	padding: 10px;
 }
 .contact-from textarea.input-control {
   height: 180px;
