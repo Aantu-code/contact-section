@@ -65,6 +65,7 @@ body {
 	background-color: transparent;
 	transition: all 0.3s ease;
 	padding: 10px;
+	color: #f1e5e5;
 }
 .contact-from textarea.input-control {
   height: 180px;
